@@ -1,10 +1,14 @@
 # PhoneBroadcastReceiverShowElectricity
 Android开发点击查看手机电量的小功能。学习广播的一个小技能小Demo
+
 作者：程序员小冰，GitHub主页：https://github.com/QQ986945193
+
 微博：http://weibo.com/mcxiaobing
 
 首先给大家看一下效果图：
+
 ![这里写图片描述](http://img.blog.csdn.net/20160904160522824)
+
 先写一个广播类：
 
 ```
